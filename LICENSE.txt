@@ -1,0 +1,5 @@
+Program: Serial Data Processing Module
+Author: Jacob Simons
+Date Published: November 8, 2022
+
+All rights reserved.
